@@ -1,2 +1,5 @@
 # Hello-world
-Test of Github account
+
+Hi Humans 
+
+This is just a test of how Github works. 
